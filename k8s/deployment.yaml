@@ -9,7 +9,7 @@ spec:
   selector:
     matchLabels:
       app: cloud-admin-web
-    template:
+  template:
     metadata:
       labels:
         app: cloud-admin-web
